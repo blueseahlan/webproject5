@@ -1,3 +1,26 @@
+
+#Todo list with React
+
+![image](https://github.com/blueseahlan/webproject5/assets/32809840/b3f67bfe-197d-4ad7-8927-287653e4c387)
+
+## add new task
+
+![image](https://github.com/blueseahlan/webproject5/assets/32809840/f4957250-aaf8-430b-8a02-e1e71b19ff94)
+
+
+## mark task completed
+
+![image](https://github.com/blueseahlan/webproject5/assets/32809840/c9fedede-87fa-4bba-ba68-ff3f9542cfef)
+
+## deleted the task
+
+![image](https://github.com/blueseahlan/webproject5/assets/32809840/3a0d9df7-700e-4603-b131-aef5f0eb8a21)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
